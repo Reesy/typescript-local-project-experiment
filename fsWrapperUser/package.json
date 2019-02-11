@@ -1,0 +1,16 @@
+{
+  "name": "fswrapperuser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.24",
+    "fswrapper": "file:../fswrapper",
+    "typescript": "^3.3.3"
+  }
+}
